@@ -45,13 +45,21 @@ Support the API of MachineLearning.
 JDBC: JDBC (Java Database Connectivity) provides interfaces and classes for writing database operations. Technically speaking, JDBC is a standard API that defines how Java programs access database management systems.
 
 **SQL Syntax**
+
 Syntax for `DROP`. 
+
 `DROP` TABLE IF EXISTS table_name;
+
 Syntax for `CREATE`. 
+
 `CREATE` TABLE table_name (column1 datatype, column2 datatype, ....);
+
 Syntax for `INSERT`.
+
 `INSERT` INTO table_name (column1, column2, column3, ...) VALUES (value1, value2, value3, ...);
+
 Syntax for `SELECT`.
+
 `SELECT` column1, column2, … FROM table_name;
 
 ### Amazon EC2
