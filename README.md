@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/cooperation-Amazon-orange)
 ![Version](https://img.shields.io/badge/cooperation-GitHub-ff69b4)
 
-# Job+
+# Job+: AWS based Web Service Development
 
 <img src="images/job.jpg" width="50%" height="50%">
 
