@@ -13,10 +13,14 @@ precision and recall
 
 ### Restful API
 A RESTful API is an application program interface (API) that uses HTTP methods like GET, PUT, POST, and DELETE to manage resources. It’s also stateless. 
-**Examples:https://www.youtube.com/results?search_query=job **
+
+Examples:https://www.youtube.com/results?search_query=job 
 `GET` - Request data from the server.
+
 `POST` - Create data on the server.
+
 `PUT` - Update data on the server.
+
 `DELETE` - Delete data on Server. 
 
 ### Project Structure
