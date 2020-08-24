@@ -11,6 +11,7 @@
 **Item based / User based / Content based(this project)**
 precision and recall
 
+
 ### Restful API
 A RESTful API is an application program interface (API) that uses HTTP methods like GET, PUT, POST, and DELETE to manage resources. It’s also stateless. 
 
@@ -24,11 +25,14 @@ Examples:https://www.youtube.com/results?search_query=job
 
 `DELETE` - Delete data on Server. 
 
+
 ### Project Structure
 <img src="images/structure.jpg" width="50%" height="50%">
 
+
 ### Front-End
 HTML / CSS / JavaS cript.
+
 
 ### Algorithms
 **TF-IDF**
@@ -38,8 +42,10 @@ TF (Term frequency) is the frequency of a word in a document. However, ‘a’, 
 
 IDF (Inverse Document Frequency) is the importance of a word in general. IDF values are very low for these meaningless words. Final score is Final score = TF * IDF.
 
+
 ### MonkeyLearn API
 Support the API of MachineLearning.
+
 
 ### MySQL
 JDBC: JDBC (Java Database Connectivity) provides interfaces and classes for writing database operations. Technically speaking, JDBC is a standard API that defines how Java programs access database management systems.
@@ -62,11 +68,14 @@ Syntax for `SELECT`.
 
 `SELECT` column1, column2, … FROM table_name;
 
+
 ### Amazon EC2
 EC2 / RDS
 
+
 ### Authentication (Login/Logout)
 Cookie / Session / JWT.
+
 
 ### optimization
 **jQuery**
