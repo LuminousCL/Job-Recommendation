@@ -33,6 +33,14 @@ Examples:https://www.youtube.com/results?search_query=job
 ### Front-End
 HTML / CSS / JavaS cript.
 
+[https://www.toptal.com/html5/interview-questions](https://www.toptal.com/html5/interview-questions)
+
+[https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+[https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+[https://www.w3schools.com/css/default.asp](https://www.w3schools.com/css/default.asp)
+
 
 ### Algorithms
 **TF-IDF**
@@ -45,6 +53,7 @@ IDF (Inverse Document Frequency) is the importance of a word in general. IDF val
 
 ### MonkeyLearn API
 Support the API of MachineLearning.
+
 [https://app.monkeylearn.com/accounts/login/?next=/main/explore/](https://app.monkeylearn.com/accounts/login/?next=/main/explore/)
 
 
@@ -83,6 +92,6 @@ Cookie / Session / JWT.
 
 [https://jquery.cuishifeng.cn/](https://jquery.cuishifeng.cn/)
 
-
 **Ajax**
+
 [https://api.jquery.com/jquery.ajax/](https://api.jquery.com/jquery.ajax/)
