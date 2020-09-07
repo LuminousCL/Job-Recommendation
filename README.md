@@ -45,6 +45,7 @@ IDF (Inverse Document Frequency) is the importance of a word in general. IDF val
 
 ### MonkeyLearn API
 Support the API of MachineLearning.
+[https://app.monkeylearn.com/accounts/login/?next=/main/explore/](https://app.monkeylearn.com/accounts/login/?next=/main/explore/)
 
 
 ### MySQL
@@ -79,4 +80,9 @@ Cookie / Session / JWT.
 
 ### optimization
 **jQuery**
+
+[https://jquery.cuishifeng.cn/](https://jquery.cuishifeng.cn/)
+
+
 **Ajax**
+[https://api.jquery.com/jquery.ajax/](https://api.jquery.com/jquery.ajax/)
